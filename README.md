@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Stephen%20Kim&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=Life%20Style%20Coding)
 
 <span>
@@ -34,3 +36,7 @@
 <br>
 <h3> 📒 내가 작성하고 있는 블로그</h3>
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chugue&layout=compact)
+
+</div>
